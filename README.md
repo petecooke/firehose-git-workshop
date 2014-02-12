@@ -1,7 +1,7 @@
 Helllllllllllllo
 ================
 
-My name is pete. I am a
+My name is Pete Cooke. I am a
 
-* learning
-* gitter
+* Web Developer
+* Learner
